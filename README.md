@@ -35,7 +35,7 @@ _Eğer açıklamak için zamanınız varsa hemen ekleyebilirsiniz veya bana mesa
 - [Deutsch / German](https://privacytools.it-sec.rocks/) - [GitHub](https://github.com/Anon215/privacytools.it-sec.rocks)
 - [Italiano / Italian](https://privacytools-it.github.io/) - [GitHub](https://github.com/privacytools-it/privacytools-it.github.io)
 - [Русский / Russian](https://privacytools.ru) - [GitHub](https://github.com/c0rdis/privacytools.ru)
-- [Türkçe / Turkish](https://privacytools-tr.github.io) - [GitHub](https://github.com/porous-catfight23/privacytools-tr.github.io)
+- [Türkçe / Turkish](https://privacytools-tr.github.io) - [GitHub](https://github.com/porous-catfight23/t)
 
 # Lisans
 [GNU General Public License v3.0](https://github.com/porous-catfight23/t/blob/gh-pages/LICENSE)

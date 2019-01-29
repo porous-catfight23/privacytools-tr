@@ -1,6 +1,6 @@
 [![privacytools](https://privacytools.io/assets/img/layout/logo.png)](https://www.privacytools.io/)
 
-_Dünya Çapında Kitlelerin Gözetimine karşı şifreleme._
+_Dünya Çapında Kitlelerin Gözetimine karşı şifreleme_
 
 _...artık Türkçe_
 

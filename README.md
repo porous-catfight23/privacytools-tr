@@ -8,7 +8,7 @@ _...artık Türkçe_
 
 # Katkıda bulunmak isterseniz;
 
-privacytools.io gibi siteler için güncel olmak önemlidir. Burada listelenmiş yazılımların güncelleştirmelerini komtrol etmeyi unutmayın. Önerilen sağlayıcılar hakkındaki son gelişmeleri takip edin. Biz elimizden gelenin en iyisini yapmaya çalışıyoruz; biliyoruz ki bizler de mükemmel değiliz ve internet çok hızlı şekilde değişiyor.Bu nedenle eğer hata bulursanız veya herhangi bir sağlayıcının burada listelenmemesi gerektiğini düşünüyorsanız, veya kaliteli bir servis sağlayıcı veya tarayıcı eklentisi artık en iyi seçenek değilse; veya herhangi bir konuda...
+privacytools.io gibi siteler için güncel olmak önemlidir. Burada listelenmiş yazılımların güncelleştirmelerini komtrol etmeyi unutmayın. Önerilen sağlayıcılar hakkındaki son gelişmeleri takip edin. Biz elimizden gelenin en iyisini yapmaya çalışıyoruz; biliyoruz ki bizler de mükemmel değiliz ve internet çok hızlı şekilde değişiyor.Bu nedenle eğer hata bulursanız, herhangi bir sağlayıcının burada listelenmemesi gerektiğini düşünüyorsanız, kaliteli bir servis sağlayıcı veya tarayıcı eklentisi artık en iyi seçenek değilse; yani herhangi bir konuda...
 
 **Lütfen bizimle konuşun.** [Subreddit'imize](https://www.reddit.com/r/privacytoolsIO/) katılın ve fikirlerinizi bizimle paylaşın. Bu bir topluluk projesi ve bizler daha iyi gizlilik için en iyi bilgiyi aktarmayı hedefliyoruz. Ayrıca [/r/privacy](https://www.reddit.com/r/privacy) subredditini de kullanıyoruz. Katıldığın için teşekkür ederiz.
 

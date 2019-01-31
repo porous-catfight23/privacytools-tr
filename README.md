@@ -41,6 +41,9 @@ _Eğer açıklamak için zamanınız varsa hemen ekleyebilirsiniz veya bana mesa
 [GNU General Public License v3.0](https://github.com/porous-catfight23/t/blob/gh-pages/LICENSE)
 
 **Kaynak kodu lisansı**;
+
+_Do What The Fuck You Want To Public License_
+
 [Ne Halt Yapmak İstiyorsan Onu Yap ile Genel Lisanslanmıştır](https://github.com/privacytoolsIO/privacytools.io/blob/master/LICENSE.txt)
 
-_Bkz: Do What The Fuck You Want To Public License_
+
